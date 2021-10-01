@@ -2,6 +2,8 @@
 # Supervised Learning
 ## Project: Finding Donors for CharityML
 
+This project was completed as part of [Udacity](https://www.udacity.com/)'s Machine Learning Engineer Nanodegree Program. The original files are in the [udacity/machine-learning](https://github.com/udacity/machine-learning/tree/master/projects/finding_donors) public reposiroty on GitHub, and the content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
+
 ### Install
 
 This project requires **Python 2.7** and the following Python libraries installed:
