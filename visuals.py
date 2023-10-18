@@ -45,7 +45,7 @@ def distribution(data, transformed = False):
             fontsize = 16, y = 1.03)
 
     fig.tight_layout()
-    fig.show()
+    #fig.show() # will cause a warning since we are using Jupyter's inline backend
 
 
 def evaluate(results, accuracy, f1):
